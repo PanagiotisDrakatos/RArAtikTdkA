@@ -18,10 +18,9 @@ can build great software, faster.
 # RArAtikTdkA
 
 <a href="">[![Scc Count Badge](https://sloc.xyz/github/PanagiotisDrakatos/RArAtikTdkA/?category=lines)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/)</a>
-<a href="">[![codecov](https://codecov.io/github/PanagiotisDrakatos/RArAtikTdkA/branch/master/graph/badge.svg?token=1d910d2b-5749-4c90-bc7d-e8e4b3185606)](https://app.codecov.io/gh/PanagiotisDrakatos/RArAtikTdkA)</a>
-<a href="">[![Lines-of-Code](https://hitsofcode.com/github/PanagiotisDrakatos/RArAtikTdkA)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
-<a href="">[![GitHub stars](https://badgen.net/github/stars/PanagiotisDrakatos/RArAtikTdkA/)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
-<a href="">[![GitHub forks](https://badgen.net/github/forks/PanagiotisDrakatos/RArAtikTdkA/)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">![GitHub Repo stars](https://img.shields.io/github/stars/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">![GitHub forks](https://img.shields.io/github/forks/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">![GitHub watchers](https://img.shields.io/github/watchers/PanagiotisDrakatos/RArAtikTdkA)</a>
 <a href="">[![GitHub contributors](https://badgen.net/github/contributors/PanagiotisDrakatos/RArAtikTdkA/)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
 <a href="">[![GitHub Issues](https://img.shields.io/github/issues/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/issues)</a>
 <a href="">[![GitHub pull requests](https://img.shields.io/github/issues-pr/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/pulls)</a>
