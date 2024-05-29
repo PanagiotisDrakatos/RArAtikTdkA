@@ -78,7 +78,7 @@ RArAtikTdkA works on all major shells like msfconsole.
 - [License](#License)
 ## Getting started
 
-![Tutorial](images/proof.gif)
+![Tutorial](images/proof2.gif)
 
 ![VT](images/VT.png)
 
