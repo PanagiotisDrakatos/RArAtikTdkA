@@ -17,9 +17,20 @@ can build great software, faster.
 
 # RArAtikTdkA
 
-[![crates.io][crates.io-badge]][crates.io]
-[![Downloads][downloads-badge]][releases]
-[![Built with Nix][builtwithnix-badge]][builtwithnix]
+<a href="">[![Scc Count Badge](https://sloc.xyz/github/PanagiotisDrakatos/RArAtikTdkA/?category=lines)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/)</a>
+<a href="">[![codecov](https://codecov.io/github/PanagiotisDrakatos/RArAtikTdkA/branch/master/graph/badge.svg?token=1d910d2b-5749-4c90-bc7d-e8e4b3185606)](https://app.codecov.io/gh/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">[![Lines-of-Code](https://hitsofcode.com/github/PanagiotisDrakatos/RArAtikTdkA)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">[![GitHub stars](https://badgen.net/github/stars/PanagiotisDrakatos/RArAtikTdkA/)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">[![GitHub forks](https://badgen.net/github/forks/PanagiotisDrakatos/RArAtikTdkA/)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">[![GitHub contributors](https://badgen.net/github/contributors/PanagiotisDrakatos/RArAtikTdkA/)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">[![GitHub Issues](https://img.shields.io/github/issues/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/issues)</a>
+<a href="">[![GitHub pull requests](https://img.shields.io/github/issues-pr/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/pulls)</a>
+<a href="">[![GitHub commit](https://img.shields.io/github/last-commit/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
+<a href="">[![GitHub chat](https://img.shields.io/gitter/room/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/discussions/)</a>
+<a href="">[![GitHub size](https://img.shields.io/github/directory-file-count/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
+<a href="">[![GitHub code-size](https://img.shields.io/github/languages/code-size/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
+<a href="">[![GitHub repo-size](https://img.shields.io/github/repo-size/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
+<a href="">[![License](https://img.shields.io/badge/license-Apache-green.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/blob/master/LICENSE)</a>
 
 RArAtikTdkA is a **smarter rat library**, inspired by Pony/Loki Fareit and Artemis.
 <br>
@@ -67,9 +78,9 @@ RArAtikTdkA works on all major shells like msfconsole.
 - [License](#License)
 ## Getting started
 
-![Tutorial][[/images](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images)/proof.gif]
+![Tutorial](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/proof.gif)
 
-![VT][/images/VT.png]
+![VT](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/VT)
 
 ## IMPORTANT!!
 
@@ -159,7 +170,7 @@ on the LAN. This is useful in bypassing hostname-based access controls, or in im
 a variety of man-in-the-middle attacks. The fake domain results are the encrypted shellcode
 data as shown in the following image
 
-![DnsZone][/images/dns.png]
+![DnsZone](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/dns.png)
 
 We automate this process with a Python script to make things more easily. Here you can find the main source code of the
 script.
@@ -270,7 +281,7 @@ Address:  10.0.0.0
 But there are possibilities the attack will fail and let's discuss how to overcome it
 and bypass failures.
 
-No matter the failures if your virtual machine is on the same network with **bridged functionality and no **NAT the they
+No matter the failures if your virtual machine is on the same network with **bridged** functionality and no **NAT** the they
 will successfully send the request to the attacker machine like the following:
 
 ```
@@ -286,7 +297,7 @@ From the following wireshark snapshot we can observe that we sent correctly
 from 192.168.1.106 the fake IP to search and then we received from attacker
 192.168.1.105 the fake dnspoof packet with a fake domain so the process is made success.
 
-![Wireshark1][/images/wireshark1.png]
+![Wireshark1](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/wireshark1.png)
 
 There are possibilities that the nslookup will be buggy and his legitimate response may be faster than
 the fake spoofed packet and return response that the domain not existing. For that reason, we can
@@ -310,7 +321,7 @@ Assuming DNS host file is spoofhosts.txt is this:
 
 Let's take look at this wireshark snapshot:
 
-![Wireshark2][/images/wireshark2.png]
+![Wireshark2](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/wireshark2.png)
 
 We have observed in Wireshark at the victim system. It gives us the spoofed information
 correctly which is the third line where you can see the correct 173.252.74.22 address but
@@ -342,9 +353,9 @@ that listener, and as discussed above the attacker receives the shell.
         - set LHOST <IP Address of Kali Linux>
         - set PORT 1337
     - show options to confirm settings
-    - ![Session][/images/session.png]
+    - ![Session](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/session.png)
     - exploit
-    - ![Session1][images/session1.png]
+    - ![Session1](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/session1.png)
 
 ## Client-Installation
 
@@ -655,14 +666,14 @@ features, improving our documentation or spreading the word - we would love to h
 community. Please refer to our [contribution guidelines](./CONTRIBUTING.md) and [code of conduct](./CODE_OF_CONDUCT.md).
 
 - Bug Report: If you see an error message or encounter an issue while using RArAtikTdkA, please create
-  a [bug report](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+bug&template=bug.yaml&title=%F0%9F%90%9B+Bug+Report%3A+).
+  a [bug report](https://github.com/PanagiotisDrakatos/RArAtikTdkA/issues/new?assignees=&labels=type%3A+bug&template=bug.yaml&title=%F0%9F%90%9B+Bug+Report%3A+).
 
 - Feature Request: If you have an idea or if there is a capability that is missing and would make development easier and
   more robust, please submit
-  a [feature request](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+feature+request&template=feature.yml).
+  a [feature request](https://github.com/PanagiotisDrakatos/RArAtikTdkA/issues/new?assignees=&labels=type%3A+feature+request&template=feature.yml).
 
 - Documentation Request: If you're reading the RArAtikTdkA docs and feel like you're missing something, please submit
-  a [documentation request](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+docs&template=documentation-request.yaml&title=%F0%9F%93%96+Documentation%3A+).
+  a [documentation request](https://github.com/PanagiotisDrakatos/RArAtikTdkA/issues/new?assignees=&labels=type%3A+docs&template=documentation-request.yaml&title=%F0%9F%93%96+Documentation%3A+).
 
 Not sure where to start? Find me on discord and we will help you get started
 
