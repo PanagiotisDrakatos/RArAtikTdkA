@@ -80,7 +80,7 @@ RArAtikTdkA works on all major shells like msfconsole.
 
 ![Tutorial](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/proof.gif)
 
-![VT](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/VT)
+![VT](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/VT.png)
 
 ## IMPORTANT!!
 
@@ -170,7 +170,7 @@ on the LAN. This is useful in bypassing hostname-based access controls, or in im
 a variety of man-in-the-middle attacks. The fake domain results are the encrypted shellcode
 data as shown in the following image
 
-![DnsZone](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/dns.png)
+![DnsZone](images/dns.png)
 
 We automate this process with a Python script to make things more easily. Here you can find the main source code of the
 script.
