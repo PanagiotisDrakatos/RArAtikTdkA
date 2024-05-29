@@ -260,6 +260,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.idea
 
 # Chutzpah Test files
 _Chutzpah*
@@ -355,6 +356,8 @@ publish/
 # in these scripts will be unencrypted
 PublishScripts/
 
+/packages/
+!packages/repositories.config
 # NuGet Packages
 *.nupkg
 # NuGet Symbol Packages
