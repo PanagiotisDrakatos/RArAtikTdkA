@@ -78,9 +78,9 @@ RArAtikTdkA works on all major shells like msfconsole.
 - [License](#License)
 ## Getting started
 
-![Tutorial](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/proof.gif)
+![Tutorial](images/proof.gif)
 
-![VT](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/VT.png)
+![VT](images/VT.png)
 
 ## IMPORTANT!!
 
@@ -297,7 +297,7 @@ From the following wireshark snapshot we can observe that we sent correctly
 from 192.168.1.106 the fake IP to search and then we received from attacker
 192.168.1.105 the fake dnspoof packet with a fake domain so the process is made success.
 
-![Wireshark1](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/wireshark1.png)
+![Wireshark1](images/wireshark1.png)
 
 There are possibilities that the nslookup will be buggy and his legitimate response may be faster than
 the fake spoofed packet and return response that the domain not existing. For that reason, we can
@@ -321,7 +321,7 @@ Assuming DNS host file is spoofhosts.txt is this:
 
 Let's take look at this wireshark snapshot:
 
-![Wireshark2](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/wireshark2.png)
+![Wireshark2](images/wireshark2.png)
 
 We have observed in Wireshark at the victim system. It gives us the spoofed information
 correctly which is the third line where you can see the correct 173.252.74.22 address but
@@ -353,9 +353,9 @@ that listener, and as discussed above the attacker receives the shell.
         - set LHOST <IP Address of Kali Linux>
         - set PORT 1337
     - show options to confirm settings
-    - ![Session](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/session.png)
+    - ![Session](images/session.png)
     - exploit
-    - ![Session1](https://github.com/PanagiotisDrakatos/RArAtikTdkA/tree/main/images/session1.png)
+    - ![Session1](images/session1.png)
 
 ## Client-Installation
 
