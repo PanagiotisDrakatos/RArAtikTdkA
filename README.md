@@ -21,7 +21,7 @@ can build great software, faster.
 <a href="">![GitHub Repo stars](https://img.shields.io/github/stars/PanagiotisDrakatos/RArAtikTdkA?style=flat&logoColor=green)</a>
 <a href="">![GitHub forks](https://img.shields.io/github/forks/PanagiotisDrakatos/RArAtikTdkA?style=flat&logoColor=green)</a>
 <a href="">![GitHub watchers](https://img.shields.io/github/watchers/PanagiotisDrakatos/RArAtikTdkA?style=flat&logoColor=green)</a>
-<a href="">[![GitHub contributors](https://badgen.net/github/contributors/PanagiotisDrakatos/RArAtikTdkA/)](https://github.com/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">[![GitHub contributors](https://badgen.net/github/contributors/PanagiotisDrakatos/RArAtikTdkA/)]</a>
 <a href="">[![GitHub Issues](https://img.shields.io/github/issues/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/issues)</a>
 <a href="">[![GitHub pull requests](https://img.shields.io/github/issues-pr/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/pulls)</a>
 <a href="">[![GitHub commit](https://img.shields.io/github/last-commit/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
