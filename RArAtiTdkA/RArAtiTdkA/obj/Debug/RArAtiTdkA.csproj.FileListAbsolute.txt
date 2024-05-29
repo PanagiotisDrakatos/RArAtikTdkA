@@ -1,0 +1,12 @@
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\obj\Debug\RArAtiTdkA.csproj.AssemblyReference.cache
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\obj\Debug\RArAtiTdkA.Properties.Resources.resources
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\obj\Debug\RArAtiTdkA.csproj.GenerateResource.cache
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\obj\Debug\RArAtiTdkA.csproj.CoreCompileInputs.cache
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\bin\Debug\RArAtiTdkA.exe.config
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\bin\Debug\RArAtiTdkA.exe
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\bin\Debug\RArAtiTdkA.pdb
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\obj\Debug\RArAtiTdkA.csproj.CopyComplete
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\obj\Debug\RArAtiTdkA.exe
+C:\Users\panos\RiderProjects\RArAtiTdkA\RArAtiTdkA\obj\Debug\RArAtiTdkA.pdb
