@@ -320,7 +320,8 @@ consideration only the first not latter. Let's dive into an example to see how t
 it.
 
 Assuming DNS host file is spoofhosts.txt is this:
-``173.252.74.22  google.co.in``
+
+- ``1173.252.74.22  google.co.in``1
 
 Let's take look at this wireshark snapshot:
 
