@@ -26,9 +26,9 @@ can build great software, faster.
 <a href="">![GitHub branches](https://badgen.net/github/branches/PanagiotisDrakatos/RArAtikTdkA/)</a>
 <a href="">![GitHub language count](https://img.shields.io/github/languages/count/PanagiotisDrakatos/RArAtikTdkA?style=flat&logo=green)</a>
 <a href="">![GitHub releases](https://badgen.net/github/releases/PanagiotisDrakatos/RArAtikTdkA/)</a>
-<a href="">![GitHub Issues](https://badgen.net/github/issues/PanagiotisDrakato/RArAtikTdkA)</a>
+<a href="">![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/PanagiotisDrakatos/RArAtikTdkA?style=flat)</a>
 <a href="">[![GitHub pull requests](https://img.shields.io/github/issues-pr/PanagiotisDrakatos/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/pulls)</a>
-<a href="">![GitHub commit](https://badgen.net/githu/commits/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">![GitHub commit](https://badgen.net/github/commits/PanagiotisDrakatos/RArAtikTdkA)</a>
 <a href="">![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PanagiotisDrakatos/RArAtikTdkA/total?style=flat&logo=green)</a>
 <a href="">![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PanagiotisDrakatos/RArAtikTdkA?style=flat)</a>
 <a href="">[![GitHub code-size](https://img.shields.io/github/languages/code-size/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
