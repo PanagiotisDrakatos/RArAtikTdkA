@@ -56,6 +56,7 @@ RArAtikTdkA works on all major shells like msfconsole.
 ## Table of Contents
 
 - [Getting started](#Getting-started)
+- [RArAtikTdkA Disclaimer](#RArAtikTdkA-Disclaimer)
 - [IMPORTANT!!](#IMPORTANT!!)
 - [Discussion](#Discussion)
 - [Why is the DNS protocol used?](#Why-is-the-DNS-protocol-used?)
@@ -85,11 +86,20 @@ RArAtikTdkA works on all major shells like msfconsole.
 
 ![VT](images/VT.png)
 
+## RArAtikTdkA Disclaimer
+
+### Disclaimer of Warranty; Due Diligence
+
+This software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+### RArAtikTdkA Disclaimer
+
+While this software has been written for an assignment at university and created for security aspects for providing knowledge to the community with the intent of providing useful functionality, there is always a risk that malicious parties may alter or distribute versions of this software containing malware or other harmful code. The authors of this software do not accept any responsibility for any harm that may result from the use of compromised versions of this software. It is the responsibility of the user to verify the integrity and authenticity of the software before installation and use.
+
 ## IMPORTANT!!
 
 - I do not support any type of malicious activity with my code, nor take any responsibility  for any damage caused by it.
-  Use at your own risk.
-- For learning purposes only
+  Use at your own risk. For learning purposes only
 - Don't upload any of the code like ```.exe``` or ```.dll``` on Virus total because VT operates as honeypot and then the
   signature of malware will be pwned
 - The software is provided “as is”, without warranty of any kind, express or implied,
