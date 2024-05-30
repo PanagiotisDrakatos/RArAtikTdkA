@@ -19,16 +19,20 @@ can build great software, faster.
 
 <a href="">[![Scc Count Badge](https://sloc.xyz/github/PanagiotisDrakatos/RArAtikTdkA/?category=lines)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/)</a>
 <a href="">![GitHub Repo stars](https://img.shields.io/github/stars/PanagiotisDrakatos/RArAtikTdkA?style=flat&logoColor=green)</a>
+<a href="">![GitHub followers](https://img.shields.io/github/followers/PanagiotisDrakatos?style=flat&logo=green)</a>
 <a href="">![GitHub forks](https://img.shields.io/github/forks/PanagiotisDrakatos/RArAtikTdkA?style=flat&logoColor=green)</a>
 <a href="">![GitHub watchers](https://img.shields.io/github/watchers/PanagiotisDrakatos/RArAtikTdkA?style=flat&logoColor=green)</a>
-<a href="">[![GitHub contributors](https://badgen.net/github/contributors/PanagiotisDrakatos/RArAtikTdkA/)]</a>
-<a href="">[![GitHub Issues](https://img.shields.io/github/issues/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/issues)</a>
-<a href="">[![GitHub pull requests](https://img.shields.io/github/issues-pr/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/pulls)</a>
-<a href="">[![GitHub commit](https://img.shields.io/github/last-commit/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
-<a href="">[![GitHub chat](https://img.shields.io/gitter/room/PanagiotisDrakato/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/discussions/)</a>
-<a href="">[![GitHub size](https://img.shields.io/github/directory-file-count/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
+<a href="">![GitHub contributors](https://badgen.net/github/contributors/PanagiotisDrakatos/RArAtikTdkA/)</a>
+<a href="">![GitHub branches](https://badgen.net/github/branches/PanagiotisDrakatos/RArAtikTdkA/)</a>
+<a href="">![GitHub language count](https://img.shields.io/github/languages/count/PanagiotisDrakatos/RArAtikTdkA?style=flat&logo=green)</a>
+<a href="">![GitHub releases](https://badgen.net/github/releases/PanagiotisDrakatos/RArAtikTdkA/)</a>
+<a href="">![GitHub Issues](https://badgen.net/github/issues/PanagiotisDrakato/RArAtikTdkA)</a>
+<a href="">[![GitHub pull requests](https://img.shields.io/github/issues-pr/PanagiotisDrakatos/RArAtikTdkA.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/pulls)</a>
+<a href="">![GitHub commit](https://badgen.net/githu/commits/PanagiotisDrakatos/RArAtikTdkA)</a>
+<a href="">![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PanagiotisDrakatos/RArAtikTdkA/total?style=flat&logo=green)</a>
+<a href="">![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PanagiotisDrakatos/RArAtikTdkA?style=flat)</a>
 <a href="">[![GitHub code-size](https://img.shields.io/github/languages/code-size/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
-<a href="">[![GitHub repo-size](https://img.shields.io/github/repo-size/PanagiotisDrakato/RArAtikTdkA.svg)]()</a>
+<a href="">![GitHub repo size](https://img.shields.io/github/repo-size/PanagiotisDrakatos/RArAtikTdkA?style=flat&logo=green)</a>
 <a href="">[![License](https://img.shields.io/badge/license-Apache-green.svg)](https://github.com/PanagiotisDrakatos/RArAtikTdkA/blob/master/LICENSE)</a>
 
 RArAtikTdkA is a **smarter rat library**, inspired by Pony/Loki Fareit and Artemis.
