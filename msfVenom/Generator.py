@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from Payload import Payload
 from Cipher import AESCipher
 from Storage import FileData;
