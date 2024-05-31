@@ -238,7 +238,7 @@ for line in strshell.splitlines():
                 end = end + 4
 ```
 
-- Navigate into the path into ```Generator.py```
+- Navigate into the path into ```RArAtikTdkA/msfVenom/Generator.py```
 - First, install the required libraries by running
    - ```pip install -r requeriments.txt```
 - Run ```ip``` a on the Kali Linux box to find it’s IP address.
