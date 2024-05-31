@@ -1,5 +1,5 @@
 certifi
 cffi
-crypto
-cryptography
-crypto-utils
+pycryptodome
+pycryptodomex
+
