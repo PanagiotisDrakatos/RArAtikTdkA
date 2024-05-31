@@ -1,5 +1,5 @@
 certifi
 cffi
 pycryptodome
-pycryptodomex
+pathlib
 
